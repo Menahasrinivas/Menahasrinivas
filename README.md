@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Menaha
-- 👀 I’m interested in ...IT sector
-- 🌱 I’m currently learning ...full stack developer
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web developer
+- 🌱 I’m currently learning Mern Stack
 - 📫 How to reach me ...menahasrinivas@gmail.com
 
 <!---
